@@ -34,3 +34,5 @@ I wrote an article about it in [Medium](https://medium.com/@jscriptcoder/http-vs
 ### Socket.IO Servers:
 1. [Flask-Socket.IO](https://flask-socketio.readthedocs.io/en/latest/): “gives Flask applications access to low latency bi-directional communications between the clients and the server…”
 2. [Python-Socket.IO](https://python-socketio.readthedocs.io/en/latest/): “enables real-time bidirectional event-based communication between clients (typically, though not always, web browsers) and a server.”
+
+<!-- sort 1 -->

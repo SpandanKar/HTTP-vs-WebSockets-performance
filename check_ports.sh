@@ -1,3 +1,5 @@
+#!/bin/bash
+
 START=0
 END=9
 for ((i=START;i<=END;i++)); do
